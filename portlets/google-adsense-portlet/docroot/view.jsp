@@ -31,4 +31,4 @@
 	google_color_url = '<%= colorUrl %>';
 </aui:script>
 
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script>
